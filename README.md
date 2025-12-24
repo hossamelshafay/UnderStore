@@ -75,7 +75,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/understore.git
+    git clone https://github.com/hossamelshafay/understore.git
     cd understore
     ```
 
