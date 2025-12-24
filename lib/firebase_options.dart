@@ -46,7 +46,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAa3OC9dKoMCAtugVYc_Ew7EAX8OXt-58E',
+    apiKey: 'secret-api-key',  /// i deleted the real one for security reasons
     appId: '1:560808025375:ios:72b37797d13a79b3a1642a',
     messagingSenderId: '560808025375',
     projectId: 'understore-1',
